@@ -103,6 +103,7 @@ div{
 }
 .tabla{
   display: inline-block;
+  border-spacing: 0 15px;
 }
 /*Idiomas*/
 .langs{
